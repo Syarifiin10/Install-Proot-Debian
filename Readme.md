@@ -1,5 +1,4 @@
 
-```markdown
 # Proot Distro Management Script
 
 Script ini membantu Anda mengelola distribusi Linux menggunakan `proot-distro` di Termux.
